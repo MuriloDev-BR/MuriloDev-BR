@@ -31,8 +31,8 @@
       Currently, I'm focusing my energy on building <b>FileGhost</b> (a privacy-centric file-sharing platform) and <b>Updrop</b> (automation tools). My technical playground revolves around React, Tailwind CSS, local AI deployments, and orchestrating n8n pipelines to automate myself out of manual labor.<br><br>
     </td>
     <td align="center" valign="middle" width="30%">
-      <a href="https://postimg.cc/NyFKLkth">
-        <img src="https://i.postimg.cc/YSfYndyS/20260612-021944.png" width="220" alt="About Me Portrait"/>
+      <a>
+        <img src="https://i.ibb.co/0yTBNjW0/dfgdimage.png" width="220" alt="About Me Portrait"/>
       </a>
     </td>
   </tr>
