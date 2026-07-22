@@ -13,7 +13,7 @@
       &nbsp;
       <a href="https://www.instagram.com/zxmuriloz/"><img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=white&color=000000&cacheSeconds=https%3A%2F%2Fwww.instagram.com%2Fzxmuriloz%2F"></a>
       &nbsp;
-      <a href="mailto:murilobmachado10@hotmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white"></a>
+      <a href="mailto:murilobmachado10@hotmail.com"><img src="https://img.shields.io/badge/HOTMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white&color=000000"></a>
     </td>
   </tr>
   <td colspan="2" valign="middle">
