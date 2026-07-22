@@ -19,17 +19,20 @@
     </td>
   </tr>
   <tr>
+  <tr>
     <td colspan="2" valign="middle">
-      <h3>Hey there! I’m Karthick 👋</h3>
+      <h3>Olá! Eu sou o Murilo Gabriel 👋</h3>
     </td>
   </tr>
   <tr>
     <td valign="middle" width="70%">
       <br>
-      <b>React Developer & AI/DS Undergrad</b> (Class of 2026)<br><br>
-      I am based in Trivandrum and deeply passionate about crafting minimalist, high-performance web applications and building efficient automated workflows.<br><br>
-      Currently, I'm focusing my energy on building <b>FileGhost</b> (a privacy-centric file-sharing platform) and <b>Updrop</b> (automation tools). My technical playground revolves around React, Tailwind CSS, local AI deployments, and orchestrating n8n pipelines to automate myself out of manual labor.<br><br>
+      <b>Desenvolvedor Full Stack & Entusiasta de Automação</b><br><br>
+      Sou desenvolvedor autodidata, apaixonado por tecnologia e programação. Desenvolvo sites, aplicações web, aplicativos e soluções de automação, sempre buscando criar sistemas rápidos, funcionais e bem estruturados.<br><br>
+      Trabalho principalmente com <b>React, PHP, Python e JavaScript</b>, além de outras tecnologias conforme a necessidade de cada projeto. Já publiquei aplicações em produção e estou constantemente aprendendo e aprimorando minhas habilidades.<br><br>
+      Gosto de transformar ideias em soluções práticas, explorar novas tecnologias e desenvolver projetos que realmente façam a diferença.
     </td>
+  </tr>
     <td align="center" valign="middle" width="30%">
       <a>
         <img src="https://i.ibb.co/0yTBNjW0/dfgdimage.png" width="220" alt="About Me Portrait"/>
@@ -40,6 +43,6 @@
 
 <div align="center">
   <a>
-    <img src="https://i.ibb.co/d4qM12Rj/m4kz.jpg" width="100%" alt="Coding Quotes"/>
+    <img src="https://i.ibb.co/BH6B2qdQ/mrkz.jpg" width="100%" alt="Coding Quotes"/>
   </a>
 </div>
