@@ -16,11 +16,12 @@
       <a href="mailto:murilobmachado10@hotmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white"></a>
     </td>
   </tr>
-  <tr>
-    <td colspan="2" valign="middle">
-      <h3>Olá! Eu sou o Murilo Gabriel <img src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.png"></img></h3>
-    </td>
-  </tr>
+  <td colspan="2" valign="middle">
+    <h3>
+      Olá! Eu sou o Murilo Gabriel 
+      <img src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.png" width="25" alt="👋">
+    </h3>
+  </td>
   <tr>
     <td valign="middle" width="70%">
       <br>
