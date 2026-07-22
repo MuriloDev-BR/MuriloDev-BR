@@ -19,7 +19,7 @@
   <td colspan="2" valign="middle">
     <h3>
       Olá! Eu sou o Murilo Gabriel 
-      <img src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.png" width="25" alt="👋">
+      <img src="https://i.ibb.co/g1LsVLm/solarsystem.gif" width="25" alt="👋">
     </h3>
   </td>
   <tr>
