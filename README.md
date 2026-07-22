@@ -37,7 +37,11 @@
     </td>
   </tr>
 </table>
-
+<p align="center">
+  <a href="https://github.com/MuriloDev-BR">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuriloDev-BR&bg_color=000000&color=e7e7e7&line=e7e7e7&point=e7e7e7&area=true&hide_border=true" alt="Activity Graph">
+  </a>
+</p>
 <div align="center">
   <a>
     <img src="https://i.ibb.co/BH6B2qdQ/mrkz.jpg" width="100%" alt="Coding Quotes"/>
