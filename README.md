@@ -11,14 +11,14 @@
     <td colspan="2" align="center" valign="middle">
       <a href="https://discord.com/users/1374290446032965634"><img src="https://img.shields.io/badge/DISCORD-000000?style=for-the-badge&logo=discord&logoColor=white&color=000000&cacheSeconds=https%3A%2F%2Fdiscord.com%2Fusers%2F1374290446032965634"></a>
       &nbsp;
-      <a href="https://www.instagram.com/zxmuriloz/"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white"></a>
+      <a href="https://www.instagram.com/zxmuriloz/"><img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=white&color=000000&cacheSeconds=https%3A%2F%2Fwww.instagram.com%2Fzxmuriloz%2F"></a>
       &nbsp;
       <a href="mailto:murilobmachado10@hotmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white"></a>
     </td>
   </tr>
   <tr>
     <td colspan="2" valign="middle">
-      <h3>Olá! Eu sou o Murilo Gabriel 👋</h3>
+      <h3>Olá! Eu sou o Murilo Gabriel <img src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.png"></img></h3>
     </td>
   </tr>
   <tr>
