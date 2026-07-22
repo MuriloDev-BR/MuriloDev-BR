@@ -1,6 +1,6 @@
 <div align="center">
   <a>
-    <img src="https://i.ibb.co/QvD5bVb9/mkz.jpg" width="100%" alt="Banner"/>
+    <img src="https://i.ibb.co/QFqJzzt2/sdfsdfsdf.jpg" width="100%" alt="Banner"/>
   </a>
 </div>
 
