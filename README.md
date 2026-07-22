@@ -19,7 +19,7 @@
   <td colspan="2" valign="middle">
     <h3>
       Olá! Eu sou o Murilo Gabriel 
-      <img src="https://i.ibb.co/g1LsVLm/solarsystem.gif" width="45" style="transform: rotate(33deg) translate(0px, 8px);" alt="👋">
+      <img src="https://i.ibb.co/g1LsVLm/solarsystem.gif" width="45" align="middle" alt="👋">
     </h3>
   </td>
   <tr>
