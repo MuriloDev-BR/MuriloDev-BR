@@ -28,7 +28,8 @@
       <b>Desenvolvedor Full Stack & Entusiasta de Automação</b><br><br>
       Sou desenvolvedor autodidata, apaixonado por tecnologia e programação. Desenvolvo sites, aplicações web, aplicativos e soluções de automação, sempre buscando criar sistemas rápidos, funcionais e bem estruturados.<br><br>
       Trabalho principalmente com <b>React, PHP, Python e JavaScript</b>, além de outras tecnologias conforme a necessidade de cada projeto. Já publiquei aplicações em produção e estou constantemente aprendendo e aprimorando minhas habilidades.<br><br>
-      Gosto de transformar ideias em soluções práticas, explorar novas tecnologias e desenvolver projetos que realmente façam a diferença.<br>
+      Gosto de transformar ideias em soluções práticas, explorar novas tecnologias e desenvolver projetos que realmente façam a diferença.
+      <br>
     </td>
     <td align="center" valign="middle" width="30%">
       <a>
